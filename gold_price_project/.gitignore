@@ -1,0 +1,12 @@
+# Ignorera API-nycklar
+.env
+
+# Ignorera SQLite-databasen
+gold_prices.db
+
+# Ignorera loggfiler
+pipeline.log
+
+# Ignorera Python-cache
+__pycache__/
+*.pyc
